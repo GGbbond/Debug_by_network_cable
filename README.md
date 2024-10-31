@@ -1,4 +1,3 @@
-# Debug_by_network_cable
 # 使用网线调试视觉板
 
 
