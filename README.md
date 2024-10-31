@@ -1,7 +1,18 @@
 # 使用网线调试视觉板
 
+需要：
+  网线(普通网线即可)
+
+  ![image](https://github.com/user-attachments/assets/761a4d8e-235a-4a59-9257-58c60d6a1d54)
+
+  HDMI接口的显卡诱骗器(要用带LED灯的，经测试不带LED灯的视觉板上不能用)
+
+  ![image](https://github.com/user-attachments/assets/63dc636d-14fd-44d3-8a64-e9b19a3a09b7)
+
 
 # 第一步：
+
+给视觉板插上显卡诱骗器
 
 网线连接视觉板和电脑(电脑没有网口可以用type-c转网口转接头)
 
