@@ -63,3 +63,20 @@
 右键单击“默认密钥环” -> 选择“更改密码” -> 在输入新密码时不要输入，留着空白，然后继续。(可能会有警告，不过影响不大)
 
 结束！
+
+
+# 食用方法：
+
+在自己的电脑上找到Ubuntu中自带的"Remmina"
+
+![image](https://github.com/user-attachments/assets/ab770844-f414-487c-a910-c43d83ac2eb5)
+
+
+选择"RDP" -> 输入视觉板配置时"IPv4"中的"地址",回车 -> 输入视觉板配置时的"用户名"和"密码"("域"空着就可以)
+-> 点击"确定"
+
+![image](https://github.com/user-attachments/assets/a27c8aa6-0bed-46ee-ab3b-4b59b3c8a9f3)
+
+
+
+
